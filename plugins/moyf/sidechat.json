@@ -3,7 +3,7 @@
   "artifact": {
     "kind": "git",
     "remote": "https://github.com/Moyf/paseo-sidechat.git",
-    "commit": "923cd207959ca538f9e823e1838f090cae863b20"
+    "commit": "44c48619aec84084d672c9680b3220b03f313e95"
   },
   "repository": {
     "url": "https://github.com/Moyf/paseo-sidechat"
